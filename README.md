@@ -1,6 +1,8 @@
 # Stalin's Browser History
 Organisation blocked  you from deleting your Chrome browser history?  Just pull a Stalin and change it to fit your narrative!
 
+(this will also work on Mozilla Firefox)
+
 ## Usage
 To remove a page currently loaded:
 
